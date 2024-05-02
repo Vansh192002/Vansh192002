@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vansh192002
-- 👀 I’m interested in Data Analysis
+- 👀 I’m a AI and ML Enthusiast.
 - 🌱 I’m currently looking to Develop my python programming and analytical skills.
-- 💞️ I’m looking to collaborate on projects that help me to boost my skills as a Data analyst
+- 💞️ I’m looking to collaborate on projects that includes AI and ML integration to find solutions.
 - 📫 How to reach me : Email :- vanshlimbachiya.glsbca20@gmail.com,  : Linkedin : linkedin.com/in/vansh-limbachiya-248258280
 - 
 
